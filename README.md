@@ -1,8 +1,8 @@
-# �� Desafio Técnico – Desenvolvedor(a) Front-End (Next.js)
+# ⭐ Desafio Técnico – Desenvolvedor(a) Front-End (Next.js)
 
 ​
 
-## �� Objetivo
+## ⭐ Objetivo
 
 ​
 Desenvolver uma aplicação web com **Next.js** que consuma a [REST Countries API](https://restcountries.com/#rest-countries), permitindo ao usuário explorar e visualizar informações sobre países de forma interativa e responsiva.
@@ -12,7 +12,7 @@ Desenvolver uma aplicação web com **Next.js** que consuma a [REST Countries AP
 
 ​
 
-## �� Contexto
+## ⭐ Contexto
 
 ​
 A aplicação será um catálogo de países com recursos de filtragem e visualização de detalhes. O usuário deve poder:
@@ -30,7 +30,7 @@ A aplicação será um catálogo de países com recursos de filtragem e visualiz
 
 ​
 
-## ��️ Layout (a definir)
+## ⭐ Layout (a definir)
 
 ​
 Você pode usar sua criatividade para compor a interface. Não há layout pré-definido. A clareza, usabilidade e responsividade serão consideradas na avaliação.
@@ -40,7 +40,7 @@ Você pode usar sua criatividade para compor a interface. Não há layout pré-d
 
 ​
 
-## �� Requisitos Técnicos
+## ⭐ Requisitos Técnicos
 
 ​
 
@@ -56,7 +56,7 @@ Você pode usar sua criatividade para compor a interface. Não há layout pré-d
 
 ​
 
-## �� Funcionalidades Esperadas
+## ⭐ Funcionalidades Esperadas
 
 ​
 
@@ -106,7 +106,7 @@ Este projeto deve ser utilizado como base para o desenvolvimento do seu teste. A
 
 ​
 
-## �� Entrega
+## ⭐ Entrega
 
 ​
 
@@ -121,14 +121,14 @@ Este projeto deve ser utilizado como base para o desenvolvimento do seu teste. A
 
 ​
 
-## �� Instruções
+## ⭐ Instruções
 
 ​
 
-## �� Breve explicação
+## ⭐ Breve explicação
 
 ​
 
-## �� Link do deploy (se houver)
+## ⭐ Link do deploy (se houver)
 
 ​
