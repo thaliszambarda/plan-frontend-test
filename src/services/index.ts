@@ -1,2 +1,2 @@
-export { getUser } from './http/userService'
-export { api } from './api'
+export { getUser } from './http/userService';
+export { api } from './api';

@@ -1,1 +1,1 @@
-export type { UserProps } from './userProps'
+export type { UserProps } from './userProps';

@@ -1,7 +1,4 @@
 {
-  "recommendations": [
-    "dbaeumer.vscode-eslint",
-    "EditorConfig.EditorConfig"
-  ],
+  "recommendations": ["dbaeumer.vscode-eslint", "EditorConfig.EditorConfig"],
   "unwantedRecommendations": []
 }
