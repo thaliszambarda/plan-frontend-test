@@ -32,11 +32,11 @@ A aplicação será um catálogo de países com recursos de filtragem e visualiz
 
 ## ⭐ Layout
 
-​Segue links do layout para utilização:
-[Figma Componentes](https://www.figma.com/design/uqRKSNiAtLlHWzg6qs7J0v/TESTE-FRONT-PLAN?node-id=0-1&p=f)
-[Figma Apresentação](https://www.figma.com/proto/uqRKSNiAtLlHWzg6qs7J0v/TESTE-FRONT-PLAN?node-id=2-615&t=jAEkXLJ8nXUMIDD4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+-​ Segue links do layout para aplicação:
+  - [Figma Componentes](https://www.figma.com/design/uqRKSNiAtLlHWzg6qs7J0v/TESTE-FRONT-PLAN?node-id=0-1&p=f)
+  - [Figma Apresentação](https://www.figma.com/proto/uqRKSNiAtLlHWzg6qs7J0v/TESTE-FRONT-PLAN?node-id=2-615&t=jAEkXLJ8nXUMIDD4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 ​
-A responsividade deve ser aplicada para manter o layout mais coerente com o definido acima.
+- A responsividade deve ser aplicada para manter o layout mais coerente com o definido acima.
 
 ---
 
