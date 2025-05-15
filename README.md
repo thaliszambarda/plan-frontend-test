@@ -30,11 +30,13 @@ A aplicação será um catálogo de países com recursos de filtragem e visualiz
 
 ​
 
-## ⭐ Layout (a definir)
+## ⭐ Layout
 
+​Segue links do layout para utilização:
+[Figma Componentes](https://www.figma.com/design/uqRKSNiAtLlHWzg6qs7J0v/TESTE-FRONT-PLAN?node-id=0-1&p=f)
+[Figma Apresentação](https://www.figma.com/proto/uqRKSNiAtLlHWzg6qs7J0v/TESTE-FRONT-PLAN?node-id=2-615&t=jAEkXLJ8nXUMIDD4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 ​
-Você pode usar sua criatividade para compor a interface. Não há layout pré-definido. A clareza, usabilidade e responsividade serão consideradas na avaliação.
-​
+A responsividade deve ser aplicada para manter o layout mais coerente com o definido acima.
 
 ---
 
